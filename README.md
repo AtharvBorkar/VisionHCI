@@ -1,4 +1,4 @@
-# 🏄 Subway Surfers Hand Gesture Controller
+# 🏄VisionHCI-Subway Surfers Hand Gesture Controller
 
 > Control **Subway Surfers** (or any arrow-key driven game) with real-time **hand swipe gestures** detected via your webcam — no hardware, no controller required.
 
