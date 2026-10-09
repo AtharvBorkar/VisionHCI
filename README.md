@@ -35,7 +35,7 @@ Webcam → OpenCV → MediaPipe → Swipe Logic → pydirectinput → Game
 ## 🗂️ Project Structure
 
 ```
-Subway/
+VisionHCI/
 ├── main.py        # Core gesture detection and key-press logic
 └── README.md      # This file
 ```
@@ -60,8 +60,8 @@ Subway/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/Subway.git
-cd Subway
+git clone https://github.com/<your-username>/VisionHCI.git
+cd VisionHCI
 ```
 
 ### 2. Create a virtual environment (recommended)
